@@ -1,5 +1,7 @@
 # Markdown and Git Homework
 
+![Project Logo](images/logo.png).
+
 Work with Markdown practice in Class and House...
 
 ## Table of Contents
