@@ -1,0 +1,117 @@
+commit eb63c5e7671e1063e3a47cb1a9774493060714ca
+Merge: 9e472db d519123
+Author: TheFilimisco <54910978l@iespoblenou.org>
+Date:   Sun Nov 17 14:43:24 2024 +0100
+
+    Merge pull request #2 from TheFilimisco/feature/1-contribution-guidelines
+    
+    Add contribution guidelines #1
+
+commit d5191239c2e939c640c4b6187feedd5e9a34d695
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Sun Nov 17 14:36:12 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 60 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 60 insertions(+)
+
+commit 9e472db390641d3d8d6e010ca1c58095296a2720
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 20:44:52 2024 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit d8f88343602b2195b969f6a3954165f49c866cb1
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 20:39:05 2024 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 81 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 81 insertions(+)
+
+commit fb7fd50cf830bb2635cb5440f09e31433f181cfe
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 20:24:16 2024 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit e04b9ea9bf21282c7a4dd477c3d51f6ea11026bf
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 20:15:05 2024 +0100
+
+    Enhace README with formatting
+
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 00f7fb3814f02a30c2c8cc16df4e028f8c4b58fa
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 20:07:08 2024 +0100
+
+    Add feature list able to README
+
+ README.md | 10 ++++++++--
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+
+commit dc0af4ce58a682acece0f5b4d075ab4e6941f9d9
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 20:00:05 2024 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 4225 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 11db1fdcdb3e8c4df5f8b57634f1fffa0cc678b4
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 17:00:09 2024 +0100
+
+    Add sections to README
+
+ README.md | 15 ++++++++++++++-
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+
+commit 55b21602ed92d2b5db19a22c3ab7ca54c2859f69
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 16:52:18 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit bf38ffc527a006bfb793540088a9c38889d2db05
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 16:42:06 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit a4e6b9518a7884730bd469737b1b07f16197fa6d
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 16:33:11 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 650f17563cd508830e36d5de730742ad7c5314e7
+Author: StevenUriarte <54910978l@iespoblenou.org>
+Date:   Tue Nov 12 16:25:51 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 2 ++
+ 1 file changed, 2 insertions(+)
